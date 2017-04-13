@@ -1,5 +1,5 @@
 # Align Layers
-Quick fix from the plugin Matt D. Smith's made from a remapped Dan Eden's "Align Layers" shortcuts in Sketch. This version uses `^` and `⌘` + the arrow keys to quickly align objects and removes the need to use the `shift` key. Full commands below:
+Quick fix from the plugin [Matt D. Smith's](https://github.com/mds) made from a remapped Dan Eden's "Align Layers" shortcuts in Sketch. This version uses `^` and `⌘` + the arrow keys to quickly align objects and removes the need to use the `shift` key. Full commands below:
 
 - `^ ⌘ ←` align left
 - `^ ⌘ →` align right
