@@ -15,7 +15,7 @@ Matt made a [YouTube video](https://www.youtube.com/watch?v=Wk5pYsy4OEE) that ex
 ---
 
 ## Installation
-1. [Download the plugin repository](https://github.com/mds/sketch-shortcuts/archive/master.zip)
+1. Download the plugin repository
 2. Double-click the `.sketchplugin` file
 3. In Sketch, run the plugin with one of the shortcuts.
 
